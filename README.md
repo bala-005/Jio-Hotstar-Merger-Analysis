@@ -40,8 +40,8 @@ The analysis is based on structured data from two primary databases:
 - **Revenue Maximization**: Optimized pricing models for Tier 1, Tier 2, and Tier 3 cities.
 
 ## Key Findings
-- **35% of users were inactive**, requiring engagement strategies to reduce churn.
-- **80% of total watch time was mobile-driven**, indicating the need for mobile-first content.
+- **34% of users were inactive**, requiring engagement strategies to reduce churn.
+- **60% of total watch time was mobile-driven**, indicating the need for mobile-first content.
 - **Premium plan retention was highest in Tier 1 cities**, suggesting a location-based pricing advantage.
 
 ## Tools & Techniques Used
